@@ -1,6 +1,5 @@
-# pankajsahu.github.io
-
-Hello to mypage
+# pankajsahu.github
+Welcome to my Page
 
 # heading
 * sub heading
